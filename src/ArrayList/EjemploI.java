@@ -52,7 +52,7 @@ public class EjemploI {
             System.out.println(color);
         }
 
-    
+
 
 
     }
